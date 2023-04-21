@@ -1,4 +1,4 @@
-# POS tagger based on GloVe embeddings
+# POS-tagging tool based on GloVe embeddings
 
 Repository for first NLP course assignment.
 
