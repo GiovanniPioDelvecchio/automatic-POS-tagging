@@ -10,5 +10,5 @@ small recurrent neural network followed by a time-distributed dense layer.
 This project was developed in Keras and trained on a fraction of the
 NLTK corpus for POS-tagging.
 
-The repository were the project was developed can be found here:
+The repository were the project was developed can be found here: <br>
 https://github.com/DomMcOyle/NLP-Assigments-22-23/tree/Assignment-1
